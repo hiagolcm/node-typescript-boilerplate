@@ -4,7 +4,7 @@ Minimalistic boilerplate to build node applications using typescript.
 
 ## Tools
 
-- [Eslint](https://github.com/eslint/eslint)
+- [Eslint](https://github.com/eslint/eslint) - Airbnb
 - [Prettier](https://prettier.io/)
 - [.editorconfig](https://editorconfig.org/)
 - [Typescript](https://www.typescriptlang.org/)
